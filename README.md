@@ -298,6 +298,7 @@ Formación en programación y tecnología.
 
 </div>
 
+```text
 🌐 Frontend
 ├── HTML5
 ├── CSS

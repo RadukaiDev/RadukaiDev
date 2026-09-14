@@ -1,14 +1,6 @@
-<!-- =========================================================
-     HEADER
-     ========================================================= -->
-
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif"
-    width="380"
-    alt="Developer animation"
-  />
+  <img src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif" width="380" alt="Developer animation">
 
   <h1>👋 ¡Hola! Soy Hector Galvez</h1>
 
@@ -22,289 +14,453 @@
 
   <p>
     <a href="mailto:galvezvillaloboshectorluis@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Email"
-      />
+      <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 
     <a href="https://github.com/RadukaiDev">
-      <img
-        src="https://img.shields.io/badge/GitHub-RadukaiDev-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-      />
+      <img src="https://img.shields.io/badge/GitHub-RadukaiDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 
     <a href="https://www.linkedin.com/in/hector-luis-galvez-villalobos-600653331">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-Hector%20Galvez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
+      <img src="https://img.shields.io/badge/LinkedIn-Hector%20Galvez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 
     <a href="https://www.youtube.com/@radudev">
-      <img
-        src="https://img.shields.io/badge/YouTube-RaduDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        alt="YouTube"
-      />
+      <img src="https://img.shields.io/badge/YouTube-RaduDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
   </p>
 
 </div>
 
----
+<h2>🧑‍💻 Sobre mí</h2>
 
-## 🧑‍💻 Sobre mí
+<p>
+  Soy <strong>Ingeniero en Sistemas Computacionales</strong> con experiencia combinada en
+  <strong>docencia universitaria, desarrollo de software y soporte técnico institucional</strong>.
+</p>
 
-Soy **Ingeniero en Sistemas Computacionales** con experiencia combinada en **docencia universitaria, desarrollo de software y soporte técnico institucional**.
+<p>
+  Me interesa especialmente el desarrollo de aplicaciones utilizando
+  <strong>Java y Spring Boot</strong>, el diseño y administración de
+  <strong>bases de datos</strong>, el desarrollo web y la implementación de soluciones tecnológicas.
+</p>
 
-Me interesa especialmente el desarrollo de aplicaciones utilizando **Java y Spring Boot**, el diseño y administración de **bases de datos**, el desarrollo web y la implementación de soluciones tecnológicas.
+<p>
+  También cuento con experiencia en <strong>robótica utilizando Arduino</strong>,
+  automatización y acompañamiento de estudiantes en proyectos tecnológicos.
+</p>
 
-También cuento con experiencia en **robótica utilizando Arduino**, automatización y acompañamiento de estudiantes en proyectos tecnológicos.
+<p>
+  Actualmente me desempeño como <strong>Profesor Universitario en la Universidad del Tacaná</strong>,
+  donde imparto materias relacionadas con:
+</p>
 
-Actualmente me desempeño como **Profesor Universitario en la Universidad del Tacaná**, donde imparto materias relacionadas con:
+<ul>
+  <li>🗄️ Sistemas de Bases de Datos</li>
+  <li>💻 Lenguajes de Programación</li>
+  <li>🧠 Estructuras de Datos</li>
+  <li>🖥️ Arquitectura de Computadoras</li>
+  <li>🤖 Robótica</li>
+  <li>🔧 Desarrollo de Software</li>
+</ul>
 
-- 🗄️ Sistemas de Bases de Datos
-- 💻 Lenguajes de Programación
-- 🧠 Estructuras de Datos
-- 🖥️ Arquitectura de Computadoras
-- 🤖 Robótica
-- 🔧 Desarrollo de Software
+<h2>🚀 Tecnologías y herramientas</h2>
 
----
-
-## 🚀 Tecnologías y herramientas
-
-### 💻 Lenguajes de programación
+<h3>💻 Lenguajes de programación</h3>
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=java,python,js,php,html,css&perline=6"
-  alt="Lenguajes de programación"
-/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&perline=6" alt="Lenguajes de programación">
 </div>
 
-### 🌱 Frameworks y desarrollo
+<h3>🌱 Frameworks y desarrollo</h3>
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=spring&perline=6"
-  alt="Spring"
-/>
-
+  <img src="https://skillicons.dev/icons?i=spring&perline=6" alt="Spring">
 </div>
 
 <p align="center">
-
-`Spring Boot` · `Spring Security` · `APIs REST` · `Desarrollo Web`
-
+  <strong>Spring Boot</strong> ·
+  <strong>Spring Security</strong> ·
+  <strong>APIs REST</strong> ·
+  <strong>Desarrollo Web</strong>
 </p>
 
-### 🗄️ Bases de datos
+<h3>🗄️ Bases de datos</h3>
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=postgres,mysql&perline=6"
-  alt="Bases de datos"
-/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" alt="Bases de datos">
 </div>
 
 <p align="center">
-
-`PostgreSQL` · `MySQL` · `SQL` · `Modelado de Datos`
-
+  <strong>PostgreSQL</strong> ·
+  <strong>MySQL</strong> ·
+  <strong>SQL</strong> ·
+  <strong>Modelado de Datos</strong>
 </p>
 
-### ☁️ Cloud, sistemas y herramientas
+<h3>☁️ Cloud, sistemas y herramientas</h3>
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=aws,git,github,linux,windows,vscode&perline=6"
-  alt="Herramientas y plataformas"
-/>
-
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,windows,vscode&perline=6" alt="Herramientas y plataformas">
 </div>
 
-### 🤖 Robótica
+<h3>🤖 Robótica</h3>
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=arduino&perline=6"
-  alt="Arduino"
-/>
-
+  <img src="https://skillicons.dev/icons?i=arduino&perline=6" alt="Arduino">
 </div>
 
 <p align="center">
-
-`Arduino` · `Sensores` · `Automatización` · `Robótica Educativa`
-
+  <strong>Arduino</strong> ·
+  <strong>Sensores</strong> ·
+  <strong>Automatización</strong> ·
+  <strong>Robótica Educativa</strong>
 </p>
 
----
-
-## 🧠 Áreas de especialización
+<h2>🧠 Áreas de especialización</h2>
 
 <table align="center">
-<tr>
+  <tr>
+    <td align="center" width="180">
+      <h3>☕ Java</h3>
+      <p>Desarrollo de aplicaciones utilizando Java.</p>
+    </td>
 
-<td align="center" width="180">
+    <td align="center" width="180">
+      <h3>🌱 Spring Boot</h3>
+      <p>Desarrollo de aplicaciones web y APIs REST.</p>
+    </td>
 
-### ☕ Java
+    <td align="center" width="180">
+      <h3>🗄️ Bases de Datos</h3>
+      <p>Diseño, consultas y administración de bases de datos.</p>
+    </td>
+  </tr>
 
-Desarrollo de aplicaciones utilizando Java.
+  <tr>
+    <td align="center">
+      <h3>☁️ AWS</h3>
+      <p>Fundamentos de infraestructura y servicios cloud.</p>
+    </td>
 
-</td>
+    <td align="center">
+      <h3>🤖 Arduino</h3>
+      <p>Robótica, automatización y proyectos educativos.</p>
+    </td>
 
-<td align="center" width="180">
-
-### 🌱 Spring Boot
-
-Desarrollo de aplicaciones web y APIs REST.
-
-</td>
-
-<td align="center" width="180">
-
-### 🗄️ Bases de Datos
-
-Diseño, consultas y administración de bases de datos.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ☁️ AWS
-
-Fundamentos de infraestructura y servicios cloud.
-
-</td>
-
-<td align="center">
-
-### 🤖 Arduino
-
-Robótica, automatización y proyectos educativos.
-
-</td>
-
-<td align="center">
-
-### 👨‍🏫 Docencia
-
-Formación en programación y tecnología.
-
-</td>
-
-</tr>
+    <td align="center">
+      <h3>👨‍🏫 Docencia</h3>
+      <p>Formación en programación y tecnología.</p>
+    </td>
+  </tr>
 </table>
 
----
+<h2>💼 Experiencia profesional</h2>
 
-## 💼 Experiencia profesional
+<h3>🎓 Profesor Universitario</h3>
 
-### 🎓 Profesor Universitario
+<p>
+  <strong>Universidad del Tacaná — Tapachula, Chiapas</strong><br>
+  <em>Julio 2025 – Presente</em>
+</p>
 
-**Universidad del Tacaná — Tapachula, Chiapas**
+<ul>
+  <li>👨‍🏫 Impartición de materias para la Licenciatura en Ingeniería en Sistemas.</li>
+  <li>🗄️ Sistemas de Bases de Datos.</li>
+  <li>💻 Lenguajes de Programación.</li>
+  <li>🧠 Estructuras de Datos.</li>
+  <li>🖥️ Arquitectura de Computadoras.</li>
+  <li>🤖 Robótica.</li>
+  <li>🔧 Acompañamiento a estudiantes en proyectos de software.</li>
+  <li>🤖 Diseño y programación de brazos y pinzas robóticas automatizadas utilizando Arduino.</li>
+  <li>🏢 Participación en proyectos de sistemas ERP desarrollados con Java y PHP.</li>
+</ul>
 
-`Julio 2025 – Presente`
+<h3>💻 Profesor en Computación</h3>
 
-- 👨‍🏫 Impartición de materias para la Licenciatura en Ingeniería en Sistemas.
-- 🗄️ Sistemas de Bases de Datos.
-- 💻 Lenguajes de Programación.
-- 🧠 Estructuras de Datos.
-- 🖥️ Arquitectura de Computadoras.
-- 🤖 Robótica.
-- 🔧 Acompañamiento a estudiantes en proyectos de software.
-- 🤖 Diseño y programación de brazos y pinzas robóticas automatizadas utilizando Arduino.
-- 🏢 Participación en proyectos de sistemas ERP desarrollados con Java y PHP.
+<p>
+  <strong>ECA — Curso de Computación (Paquetería Office)</strong><br>
+  <em>Mayo 2026 – Presente</em>
+</p>
 
-### 💻 Profesor en Computación
+<ul>
+  <li>📄 Microsoft Word.</li>
+  <li>📊 Microsoft Excel.</li>
+  <li>📽️ Microsoft PowerPoint.</li>
+  <li>👨‍🏫 Enseñanza de herramientas de productividad digital.</li>
+</ul>
 
-**ECA — Curso de Computación (Paquetería Office)**
+<h3>🛠️ Soporte Técnico</h3>
 
-`Mayo 2026 – Presente`
+<p>
+  <strong>ISSSTE — Área de Enseñanza</strong><br>
+  <em>Octubre 2023 – Abril 2024</em>
+</p>
 
-- 📄 Microsoft Word.
-- 📊 Microsoft Excel.
-- 📽️ Microsoft PowerPoint.
-- 👨‍🏫 Enseñanza de herramientas de productividad digital.
+<ul>
+  <li>🔧 Soporte técnico para el área de enseñanza.</li>
+  <li>📊 Corrección y elaboración de documentos en Excel, PowerPoint y Word.</li>
+  <li>🌐 Desarrollo de una página web para gestión de citas médicas.</li>
+  <li>📅 Implementación de una agenda médica digital.</li>
+  <li>📊 Desarrollo de una versión complementaria en Excel.</li>
+  <li>🔐 Instalación y configuración de sistema de control de acceso.</li>
+  <li>👆 Implementación de detector de huellas dactilares.</li>
+  <li>🏥 Registro de entradas y salidas del área de Enseñanza y Enfermería.</li>
+</ul>
 
-### 🛠️ Soporte Técnico
+<h2>🎓 Educación</h2>
 
-**ISSSTE — Área de Enseñanza**
+<h3>🎓 Universidad del Tacaná</h3>
 
-`Octubre 2023 – Abril 2024`
+<p>
+  <strong>Ingeniería en Sistemas Computacionales</strong><br>
+  <em>Sep. 2021 – Ago. 2024</em><br>
+  📍 Tapachula, Chiapas, México
+</p>
 
-- 🔧 Soporte técnico para el área de enseñanza.
-- 📊 Corrección y elaboración de documentos en Excel, PowerPoint y Word.
-- 🌐 Desarrollo de una página web para gestión de citas médicas.
-- 📅 Implementación de una agenda médica digital.
-- 📊 Desarrollo de una versión complementaria en Excel.
-- 🔐 Instalación y configuración de sistema de control de acceso.
-- 👆 Implementación de detector de huellas dactilares.
-- 🏥 Registro de entradas y salidas del área de Enseñanza y Enfermería.
+<h3>💻 Escuela de Comercio y Administración América</h3>
 
----
+<p>
+  <strong>Técnico en Informática Administrativa</strong><br>
+  <em>Ene. 2017 – Dic. 2019</em>
+</p>
 
-## 🎓 Educación
+<h2>📜 Certificaciones y cursos</h2>
 
-### 🎓 Universidad del Tacaná
+<ul>
+  <li>☕ <strong>Spring Boot & Spring Framework desde Cero a Experto</strong> — Udemy</li>
+  <li>🇬🇧 <strong>English B2 Upper Intermediate</strong> — SmallTalk Certify</li>
+  <li>🧠 <strong>Iniciación al Desarrollo con IA</strong> — BigSchool</li>
+  <li>🏢 <strong>Sistema Empresarial con Excel</strong> — Escuela Superior de Tapachula</li>
+  <li>🎬 <strong>Video Marketing</strong> — Escuela Superior de Tapachula</li>
+  <li>📊 <strong>Control y Gestión Empresarial</strong> — Escuela Superior de Tapachula</li>
+  <li>⚡ <strong>Principios de la Electrónica</strong> — ICATECH</li>
+  <li>🔧 <strong>Reparación de Celulares (Básico)</strong> — ICATECH</li>
+</ul>
 
-**Ingeniería en Sistemas Computacionales**
+<h2>🌐 Desarrollo Web</h2>
 
-`Sep. 2021 – Ago. 2024`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,spring&perline=6" alt="Web Development Stack">
+</div>
 
-📍 Tapachula, Chiapas, México
+<p align="center">
+  🌐 <strong>Frontend:</strong> HTML5 · CSS · JavaScript
+  <br>
+  ⚙️ <strong>Backend:</strong> Java · Spring Boot · PHP
+  <br>
+  🗄️ <strong>Bases de Datos:</strong> PostgreSQL · MySQL
+</p>
 
-### 💻 Escuela de Comercio y Administración América
+<h2>🤖 Robótica</h2>
 
-**Técnico en Informática Administrativa**
-
-`Ene. 2017 – Dic. 2019`
-
----
-
-## 📜 Certificaciones y cursos
-
-- ☕ **Spring Boot & Spring Framework desde Cero a Experto** — Udemy
-- 🇬🇧 **English B2 Upper Intermediate** — SmallTalk Certify
-- 🧠 **Iniciación al Desarrollo con IA** — BigSchool
-- 🏢 **Sistema Empresarial con Excel** — Escuela Superior de Tapachula
-- 🎬 **Video Marketing** — Escuela Superior de Tapachula
-- 📊 **Control y Gestión Empresarial** — Escuela Superior de Tapachula
-- ⚡ **Principios de la Electrónica** — ICATECH
-- 🔧 **Reparación de Celulares (Básico)** — ICATECH
-
----
-
-## 🌐 Desarrollo Web
+<p>
+  Uno de mis intereses es la combinación entre
+  <strong>software, electrónica y automatización</strong>.
+</p>
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,php,java,spring&perline=6"
-  alt="Web Development Stack"
-/>
+  <p>
+    🤖 <strong>Robótica</strong>
+    <br>
+    ↓
+    <br>
+    🔌 Arduino
+    <br>
+    ↓
+    <br>
+    💻 Programación
+    <br>
+    ↓
+    <br>
+    📡 Sensores
+    <br>
+    ↓
+    <br>
+    ⚙️ Automatización
+    <br>
+    ↓
+    <br>
+    🦾 Control de mecanismos
+  </p>
 
 </div>
 
-```text
-🌐 Frontend
-├── HTML5
-├── CSS
-└── JavaScript
+<p>
+  Durante mi experiencia docente he trabajado con estudiantes en el diseño y programación de
+  <strong>brazos y pinzas robóticas automatizadas utilizando Arduino</strong>.
+</p>
+
+<h2>📚 Docencia y tecnología</h2>
+
+<p>
+  Además del desarrollo de software, me interesa la
+  <strong>enseñanza de las tecnologías de la información</strong>.
+</p>
+
+<p>
+  Mi objetivo es combinar la
+  <strong>formación académica con proyectos prácticos</strong>,
+  permitiendo que los estudiantes lleven los conocimientos teóricos hacia aplicaciones reales.
+</p>
+
+<div align="center">
+
+  <strong>📚 Programación</strong>
+  <br>
+  ↓
+  <br>
+  <strong>🧠 Estructuras de Datos</strong>
+  <br>
+  ↓
+  <br>
+  <strong>🗄️ Bases de Datos</strong>
+  <br>
+  ↓
+  <br>
+  <strong>💻 Desarrollo de Software</strong>
+  <br>
+  ↓
+  <br>
+  <strong>🤖 Robótica</strong>
+  <br>
+  ↓
+  <br>
+  <strong>🚀 Proyectos Tecnológicos</strong>
+
+</div>
+
+<h2>📺 RaduDev</h2>
+
+<div align="center">
+
+  <a href="https://www.youtube.com/@radudev">
+
+    <img src="https://img.shields.io/badge/▶️%20Visita%20mi%20canal-RaduDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="RaduDev YouTube">
+
+  </a>
+
+  <p>
+    🎬 Canal de YouTube enfocado en
+    <strong>tecnología, programación y educación</strong>.
+  </p>
+
+  <p>
+    ☕ Java · 💻 Programación · 📊 Excel · 🧠 Tecnología · 📚 Educación
+  </p>
+
+</div>
+
+<h2>🚀 Actualmente trabajando en</h2>
+
+<table align="center">
+  <tr>
+    <th>Área</th>
+    <th>Tecnologías</th>
+  </tr>
+
+  <tr>
+    <td>☕ Backend</td>
+    <td>Java · Spring Boot</td>
+  </tr>
+
+  <tr>
+    <td>🔐 Seguridad</td>
+    <td>Spring Security</td>
+  </tr>
+
+  <tr>
+    <td>☁️ Cloud</td>
+    <td>AWS</td>
+  </tr>
+
+  <tr>
+    <td>🗄️ Bases de Datos</td>
+    <td>PostgreSQL · MySQL</td>
+  </tr>
+
+  <tr>
+    <td>🌐 Web</td>
+    <td>HTML · CSS · JavaScript · PHP</td>
+  </tr>
+
+  <tr>
+    <td>🤖 Robótica</td>
+    <td>Arduino</td>
+  </tr>
+
+  <tr>
+    <td>🐍 Programación</td>
+    <td>Python</td>
+  </tr>
+
+  <tr>
+    <td>👨‍🏫 Educación</td>
+    <td>Programación · Bases de Datos · Robótica</td>
+  </tr>
+</table>
+
+<h2>🧩 Filosofía de desarrollo</h2>
+
+<div align="center">
+
+  <h3>💡 Aprender → Diseñar → Construir → Probar → Mejorar</h3>
+
+</div>
+
+<ul>
+  <li>🧩 Modularidad</li>
+  <li>🔐 Seguridad</li>
+  <li>📚 Código comprensible</li>
+  <li>📈 Escalabilidad</li>
+  <li>🛠️ Mantenibilidad</li>
+  <li>👨‍💻 Soluciones prácticas</li>
+</ul>
+
+<h2>📫 Contacto</h2>
+
+<div align="center">
+
+  <h3>👨‍💻 Hector Galvez</h3>
+
+  <p>
+    <strong>Ingeniero en Sistemas Computacionales</strong>
+  </p>
+
+  <p>
+    📍 Tapachula, Chiapas, México
+  </p>
+
+  <p>
+    <a href="mailto:galvezvillaloboshectorluis@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+
+    <a href="https://github.com/RadukaiDev">
+      <img src="https://img.shields.io/badge/GitHub-RadukaiDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+
+    <a href="https://www.linkedin.com/in/hector-luis-galvez-villalobos-600653331">
+      <img src="https://img.shields.io/badge/LinkedIn-Hector%20Luis%20Galvez%20Villalobos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+
+    <a href="https://www.youtube.com/@radudev">
+      <img src="https://img.shields.io/badge/YouTube-RaduDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+  </p>
+
+</div>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/douglas-mathias-dev/Portfolio/master/coding.gif" width="300" alt="Coding animation">
+
+  <h3>💻 Code · 🤖 Technology · 📚 Education · 🚀 Innovation</h3>
+
+  <p>⭐ Gracias por visitar mi perfil</p>
+
+</div>
 
 ⚙️ Backend
 ├── Java

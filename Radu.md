@@ -21,14 +21,14 @@
   </p>
 
   <p>
-    <a href="mailto:galvezvillalobosh...@gmail.com">
+    <a href="mailto:galvezvillaloboshectorluis.@gmail.com">
       <img
         src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Email"
       />
     </a>
 
-    <a href="https://github.com/TU_USUARIO_GITHUB">
+    <a href="https://github.com/RadukaiDev">
       <img
         src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"
         alt="GitHub"
